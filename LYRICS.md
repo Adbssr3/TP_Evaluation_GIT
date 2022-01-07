@@ -1,7 +1,4 @@
-# Titre de la chanson
-Laisse pas traîner ton fils
-NTM
-
+# Laisse pas traîner ton fils - NTM
 
 # Kool Shen : 1er couplet
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal
