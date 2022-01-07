@@ -35,7 +35,7 @@ Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
 
-
+# Kool Shen : 2nd couplet
 Que voulais-tu que ton fils apprenne dans la rue?
 Quelles vertus croyais-tu qu'on y enseigne?
 Mais t'as pas vu comment ça pue dehors
