@@ -34,12 +34,30 @@ Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
+<<<<<<< HEAD
 #Deuxième Refrain
 Mais laisse pas traîner ton fils
 Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
+=======
+Putain, c'est en me disant "j'ai jamais demandé à t'avoir!" C'est avec ces formules, trop saoulées, enfin faut croire Que mon père a contribué à me lier avec la rue
+J'ai eu l'illusion de trouver mieux, j'ai vu
+Ce qu'un gamin de quatorze ans, avec le décalage de l'âge Peut entrevoir, c'était comme un mirage
+Plus d'interdit, juste avoir les dents assez longues
+Pour croquer la vie, profiter de tout ce qui tombe
+La rue a su me prendre car elle me faisait confiance Chose qui avec mon père était comme de la nuisance
+Aucun d'entre nous n'a voulu recoller les morceaux
+Toute tentative nous montrait qu'on avait vraiment trop d'ego
+Mon père n'était pas chanteur, il aimait les sales rengaines
+Surtout celles qui vous tapent comme un grand coup de surin en pleine poitrine Croyant la jouer fine, il ne voulait pas, ne cherchait même pas
+À ranger ce putain d'orgueil qui tranchait les liens familiaux
+Chaque jour un peu plus
+J'avais pas l'impression d'être plus coté qu'une caisse à l'argus
+Donc j'ai dû renoncer, trouver mes propres complices
+Mes partenaires de glisse, désolé si je m'immisce
+>>>>>>> 6e77aa989164b496139a30d0ba1849e6b60e567c
 
 # Kool Shen : 2nd couplet
 Que voulais-tu que ton fils apprenne dans la rue?
@@ -52,6 +70,9 @@ Ton cerveau te fait défaut, puis fait des bonds
 Et c'est vraiment pas bon quand t'en perds le contrôle
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6e77aa989164b496139a30d0ba1849e6b60e567c
 
 #Dernier Refrain 
 Non laisse pas traîner ton fils
@@ -76,4 +97,8 @@ D'esquives, des "shta-pow!" de putains de stonba
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 Qu'il te ramène du vice
+<<<<<<< HEAD
 
+=======
+>>>>>>> 80a028be981c8135bf3775e151eb934b01ae3dbd
+>>>>>>> 6e77aa989164b496139a30d0ba1849e6b60e567c
