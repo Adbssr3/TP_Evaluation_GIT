@@ -3,7 +3,7 @@ Laisse pas traîner ton fils
 NTM
 
 
-#1er couplet
+# Kool Shen : 1er couplet
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal
 Pour celui qui traîne, comme pour celui qui file
 Tout droit, de tout façon y a plus de boulot
@@ -27,13 +27,19 @@ J'ai pas de conseil à donner, mais si tu veux pas qu'il glisse
 Regarde-le, quand il parle, écoute-le!
 Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux
 
-#Refrain
+#Premier Refrain
 Laisse pas traîner ton fils
 Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
+#Deuxième Refrain
+Mais laisse pas traîner ton fils
+Si tu ne veux pas qu'il glisse
+Qu'il te ramène du vice
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
 
 # Kool Shen : 2nd couplet
 Que voulais-tu que ton fils apprenne dans la rue?
@@ -44,6 +50,8 @@ Quand tu respires ça, mec, t'es comme mort-né
 Tu finis borné à force de tourner en rond
 Ton cerveau te fait défaut, puis fait des bonds
 Et c'est vraiment pas bon quand t'en perds le contrôle
+<<<<<<< HEAD
+<<<<<<< HEAD
 
 #Dernier Refrain 
 Non laisse pas traîner ton fils
@@ -57,3 +65,15 @@ Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il gliss
+=======
+Quand pour les yeux des autres, tu joues de mieux en mieux ton rôle
+Ton rôle de caillera, juste pour ne pas
+Qu'on te dise, "Voilà tu fais plus partie de la mifa d'en bas"
+C'est dingue mais c'est comme ça
+Sache qu'ici-bas, plus qu'ailleurs, la survie est un combat
+À base de coups bas, de coups de tonba
+D'esquives, des "shta-pow!" de putains de stonba
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
+Qu'il te ramène du vice
+
