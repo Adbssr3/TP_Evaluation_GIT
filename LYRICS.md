@@ -35,6 +35,7 @@ Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Deuxième Refrain
 Mais laisse pas traîner ton fils
 Si tu ne veux pas qu'il glisse
@@ -42,6 +43,10 @@ Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 =======
+=======
+
+# Joey STARR : Couplet
+>>>>>>> 149bd562402a976dbbe9398b4783dbbcb43b4588
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!" C'est avec ces formules, trop saoulées, enfin faut croire Que mon père a contribué à me lier avec la rue
 J'ai eu l'illusion de trouver mieux, j'ai vu
 Ce qu'un gamin de quatorze ans, avec le décalage de l'âge Peut entrevoir, c'était comme un mirage
@@ -71,10 +76,23 @@ Et c'est vraiment pas bon quand t'en perds le contrôle
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 6e77aa989164b496139a30d0ba1849e6b60e567c
+=======
+Quand pour les yeux des autres, tu joues de mieux en mieux ton rôle
+Ton rôle de caillera, juste pour ne pas
+Qu'on te dise, "Voilà tu fais plus partie de la mifa d'en bas"
+C'est dingue mais c'est comme ça
+Sache qu'ici-bas, plus qu'ailleurs, la survie est un combat
+À base de coups bas, de coups de tonba
+D'esquives, des "shta-pow!" de putains de stonba
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
+Qu'il te ramène du vice
+>>>>>>> 149bd562402a976dbbe9398b4783dbbcb43b4588
 
-#Dernier Refrain 
+# Dernier Refrain 
 Non laisse pas traîner ton fils
 Laisse pas traîner ton fils
 Si tu ne veux pas qu'il glisse
@@ -86,6 +104,7 @@ Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il gliss
+<<<<<<< HEAD
 =======
 Quand pour les yeux des autres, tu joues de mieux en mieux ton rôle
 Ton rôle de caillera, juste pour ne pas
@@ -102,3 +121,6 @@ Qu'il te ramène du vice
 =======
 >>>>>>> 80a028be981c8135bf3775e151eb934b01ae3dbd
 >>>>>>> 6e77aa989164b496139a30d0ba1849e6b60e567c
+=======
+
+>>>>>>> 149bd562402a976dbbe9398b4783dbbcb43b4588
