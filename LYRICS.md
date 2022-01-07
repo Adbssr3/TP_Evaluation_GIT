@@ -1,4 +1,4 @@
-#Titre de la chanson
+# Titre de la chanson
 Laisse pas traîner ton fils
 NTM
 
@@ -27,16 +27,8 @@ J'ai pas de conseil à donner, mais si tu veux pas qu'il glisse
 Regarde-le, quand il parle, écoute-le!
 Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux
 
-#Premier Refrain
+# Premier Refrain
 Laisse pas traîner ton fils
-Si tu ne veux pas qu'il glisse
-Qu'il te ramène du vice
-Laisse pas traîner ton fils
-Si tu veux pas qu'il glisse
-
-
-#Deuxième Refrain
-Mais laisse pas traîner ton fils
 Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
@@ -59,6 +51,13 @@ J'avais pas l'impression d'être plus coté qu'une caisse à l'argus
 Donc j'ai dû renoncer, trouver mes propres complices
 Mes partenaires de glisse, désolé si je m'immisce
 
+# Deuxième Refrain
+Mais laisse pas traîner ton fils
+Si tu ne veux pas qu'il glisse
+Qu'il te ramène du vice
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
+
 
 # Kool Shen : 2nd couplet
 Que voulais-tu que ton fils apprenne dans la rue?
@@ -74,9 +73,6 @@ Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
-
-
-
 Quand pour les yeux des autres, tu joues de mieux en mieux ton rôle
 Ton rôle de caillera, juste pour ne pas
 Qu'on te dise, "Voilà tu fais plus partie de la mifa d'en bas"
