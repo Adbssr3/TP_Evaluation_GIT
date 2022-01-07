@@ -44,3 +44,16 @@ Quand tu respires ça, mec, t'es comme mort-né
 Tu finis borné à force de tourner en rond
 Ton cerveau te fait défaut, puis fait des bonds
 Et c'est vraiment pas bon quand t'en perds le contrôle
+
+#Dernier Refrain 
+Non laisse pas traîner ton fils
+Laisse pas traîner ton fils
+Si tu ne veux pas qu'il glisse
+Qu'il te ramène du vice
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
+Laisse pas traîner ton fils
+Si tu ne veux pas qu'il glisse
+Qu'il te ramène du vice
+Laisse pas traîner ton fils
+Si tu veux pas qu'il gliss
